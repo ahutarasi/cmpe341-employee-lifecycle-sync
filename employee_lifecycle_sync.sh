@@ -53,3 +53,4 @@ echo " - $SNAPSHOT_USERS"
 echo " - $ADDED"
 echo " - $REMOVED"
 echo " - $TERMINATED"
+nano employee_lifecycle_sync.sh
